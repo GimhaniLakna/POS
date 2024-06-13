@@ -1,0 +1,76 @@
+body{
+    background: lightgreen;
+}
+
+#logOutButton {
+    float: right;
+    background-color: green;
+    color: white;
+}
+
+#addButton {
+    float: right;
+    background-color: green;
+    color: white;
+}
+
+#deleteButton {
+    float: right;
+    background-color: green;
+    color: white;
+}
+
+#updateButton {
+    float: right;
+    background-color: green;
+    color: white;
+}
+
+#purchaseButton {
+    float: right;
+    position: absolute;
+    top: 90%;
+    right: 50%;
+    background-color: green;
+    color: white;
+}
+
+#custForm{
+    width: 500px;
+    height: 260px;
+    border-radius: 10px;
+    background: whitesmoke;
+    position: absolute;
+    top: 140px;
+    left: 180px;
+    margin: auto;
+    padding: 5px;
+}
+#itemForm{
+    width: 600px;
+    height: 260px;
+    border-radius: 10px;
+    background: whitesmoke;
+    position: absolute;
+    top: 140px;
+    right: 50px;
+    margin: auto;
+    padding: 5px;
+}
+#totalForm{
+    width: 450px;
+    height: 300px;
+    position: absolute;
+    top: 330px;
+    right: 50px;
+    margin: auto;
+    padding: 5px;
+}
+#itemCart{
+    width: 650px;
+    position: absolute;
+    top: 420px;
+    left: 400px;
+
+    margin: auto;
+}
